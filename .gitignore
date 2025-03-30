@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+fuel_bot.db
+.env
